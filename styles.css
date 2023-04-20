@@ -38,6 +38,7 @@ body{
   height: 550px;
   background: var(--white);
   text-align: center;
+  border-radius: 3px;
 }
 
 .tc_main .title{
@@ -89,6 +90,7 @@ body{
 }
 
 .tc_main .tc_content .tc_bottom .info p{
+  font-style: italic;
   margin-bottom: 10px;
 }
 
